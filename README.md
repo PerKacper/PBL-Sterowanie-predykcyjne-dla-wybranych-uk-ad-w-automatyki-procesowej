@@ -1,5 +1,7 @@
 # PBL-Sterowanie-predykcyjne-dla-wybranych-układów-automatyki-procesowej
 
+ Obiektem regulacji jest przepływowy podgrzewacz ciepła. Obiekt ten charakteryzuje się silnymi nieliniowościami. Tradycyjne sterowanie oparte o regulator PID daje akceptowalną jakość regulacji tylko dla niewielkich odchyłek od punktu pracy. Poprawa jakości regulacji możliwa jest dzięki zastosowaniu zaawansowanych regulatorów takich jak regulatory z rodziny MPC (ang. Model Predictive Control). W celu podniesienia wartości merytorycznej projektu planowana jest także równoległa weryfikacja zaproponowanych rozwiązań dla reaktora biologicznego z osadem czynnym.
+
 ## Przyjęte założenia
 
 Sterowanie predykcyjne dla procesu dystrybucji ciepła. Obiektem regulacji jest przepływowy podgrzewacz ciepła. Obiekt ten charakteryzuje się silnymi nieliniowościami. Tradycyjne sterowanie oparte o regulator PID daje akceptowalną jakość regulacji tylko dla niewielkich odchyłek od punktu pracy. Poprawa jakości regulacji możliwa jest dzięki zastosowaniu zaawansowanych regulatorów takich jak regulatory z rodziny MPC (ang. Model Predictive Control). W celu podniesienia wartości merytorycznej projektu planowana jest także równoległa weryfikacja zaproponowanych rozwiązań dla reaktora biologicznego z osadem czynnym.
