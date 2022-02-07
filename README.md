@@ -57,6 +57,6 @@ elementami całego systemu**
 
 ### Podczas trwania całego projektu postępowano zgodnie z ideami organizacji przedstawionymi poniżej:
 
-![Screenshot](C:\Users\hkacp\Desktop\PBL-Sterowanie-predykcyjne-dla-wybranych-uk-ad-w-automatyki-procesowej\img\img1.jpg)
+![Screenshot](https://github.com/PerKacper/PBL-Sterowanie-predykcyjne-dla-wybranych-uk-ad-w-automatyki-procesowej/blob/main/img/img1.jpg)
 
 Source: https://www.synopsys.com/glossary/what-is-cicd.html
