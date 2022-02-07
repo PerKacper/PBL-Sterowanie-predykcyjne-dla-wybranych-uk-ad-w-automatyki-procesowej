@@ -55,12 +55,8 @@ sterownikiem a Raspberry Pi**
 · **Wykonano testy bezpieczeństwa, obciążenia oraz utraty połączenia pomiędzy
 elementami całego systemu**
 
+### Podczas trwania całego projektu postępowano zgodnie z ideami organizacji przedstawionymi poniżej:
 
-
-Podczas trwania całego projektu postępowano zgodnie z ideami zarządzania przedstawionymi poniżej:
-
-![img1.bmp](\img\img1.bmp "1")
-
-
+![Screenshot](C:\Users\hkacp\Desktop\PBL-Sterowanie-predykcyjne-dla-wybranych-uk-ad-w-automatyki-procesowej\img\img1.jpg)
 
 Source: https://www.synopsys.com/glossary/what-is-cicd.html
