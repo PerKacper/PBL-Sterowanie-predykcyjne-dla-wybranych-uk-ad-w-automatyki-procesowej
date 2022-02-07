@@ -18,8 +18,6 @@ pomiędzy algorytmami sterującymi zewnętrznymi oraz wewnątrz sterownika. Pona
 na drugiej dostępnej instalacji bioreaktora zaimplementowano system Watchdoga,
 który dodatkowa analizował przepływ danych z zewnętrznego regulatora.**
 
-
-
 ## Zastosowane metody realizacji
 
 Projekt łączył w sobie
@@ -52,5 +50,5 @@ sterownikiem a Raspberry Pi**
 
 · **Wykorzystano ideę Fog Computingu**
 
-**Wykonano testy bezpieczeństwa, obciążenia oraz utraty połączenia pomiędzy
+· **Wykonano testy bezpieczeństwa, obciążenia oraz utraty połączenia pomiędzy
 elementami całego systemu**
