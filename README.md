@@ -54,3 +54,13 @@ sterownikiem a Raspberry Pi**
 
 · **Wykonano testy bezpieczeństwa, obciążenia oraz utraty połączenia pomiędzy
 elementami całego systemu**
+
+
+
+Podczas trwania całego projektu postępowano zgodnie z ideami zarządzania przedstawionymi poniżej:
+
+![img1.bmp](\img\img1.bmp "1")
+
+
+
+Source: https://www.synopsys.com/glossary/what-is-cicd.html
